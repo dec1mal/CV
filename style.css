@@ -1,0 +1,137 @@
+.top-container {
+  background-color: #EFFFFD;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  margin: 50px auto 0 auto;
+  width: 10%;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.cloud {
+  display: inline-block;
+  width: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  top: 440px;
+}
+
+.pro {
+  border-radius: 50%;
+  height: 250px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 170px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.webimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chessimg{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr{
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.bottom-container{
+
+  margin-top: 40px;
+  background-color: #66BFBF;
+  padding-top: 50px;
+  word-spacing: 20px;
+
+}
+.footer-link{
+  position: relative;
+  margin-top: 6666px;
+  color: #11999E;
+  text-decoration: none;
+}
+.ksh{
+  margin-bottom: 0;
+  color: #EAF6F6;
+  word-spacing: normal;
+  padding: 20px 0 20px 0;
+ }
+
+a:hover{
+  color: #EAF6F6;
+}
